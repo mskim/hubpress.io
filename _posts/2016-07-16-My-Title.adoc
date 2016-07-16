@@ -1,10 +1,10 @@
 :toc: macro
 :toclevels: 4
 :sectnums:
+:hp-tags: HubPress, Blog, Open Source,
 
 = My Title
 
-:hp-tags: HubPress, Blog, Open Source,
 
 == This is 
 
