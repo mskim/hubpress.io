@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "mskim",
+    "repositoryName": "https://github.com/mskim/hubpress.io.git",
     "branch": "gh-pages"
   },
   "theme": {
