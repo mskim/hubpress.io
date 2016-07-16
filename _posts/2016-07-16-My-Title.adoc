@@ -2,18 +2,47 @@
 :toclevels: 4
 :sectnums:
 :hp-tags: HubPress, Blog, Open Source,
+:toc:
 
 = My Title
 
 
 == This is 
 
-table
----
-this is a table
-this | and |this |
 
-[waarning]
-this is wroring
 
+
+WARNING: Wolpertingers are known to nest in server racks.   
+Enter at your own risk.
+
+== That is something 
+
+
+[cols="2*"]
+|===
+|Firefox
+|Web Browser
+
+|Ruby
+|Programming Language
+
+|TorqueBox
+|Application Server
+|===
+
+[cols="2*", options="header"]
+|===
+|Name
+|Group
+
+|Firefox
+|Web Browser
+
+|Ruby
+|Programming Language
+
+...
+|===
+
+== This is the third
 
